@@ -1,0 +1,13 @@
+Resumo das Features:
+	•	🔒 Bloqueio do PC, só Roblox e Discord funcionando
+	•	🔓 Desbloqueio por código e atalho (Ctrl+Shift+G)
+	•	📡 Envio inicial de IP, localização, SSID e senha Wi-Fi
+	•	📷 Envio periódicos (5min) de screenshots e fotos da webcam
+	•	🎥 Gravação contínua da webcam com upload e envio do link a cada 30 min
+	•	🔑 Extração e envio do token Discord (com consentimento)
+	•	🔐 Extração e envio das senhas salvas nos principais navegadores (Chrome, Edge, Brave, Opera, Firefox - simplificado)
+	•	⚙️ Bloqueio de apps não permitidas e watchdog para impedir execuções proibidas
+	•	📃 Envio da lista de processos ativos e arquivos da área de trabalho
+	•	📅 Envio a cada 12h de info detalhada do sistema (resolução, bateria, etc)
+	•	🖥 Papel de parede preto durante bloqueio
+	•	🔥 Startup automático para persistência
